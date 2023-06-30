@@ -1,0 +1,2 @@
+# Shortcuts
+bash and scripts
